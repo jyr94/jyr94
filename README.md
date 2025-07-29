@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jeri 👋</h1>
 
 <p align="center">
-  Backend Developer · Golang Enthusiast · Open Source Contributor
+  Backend Developer · Golang - java springboot · Open Source Contributor
 </p>
 
 ---
@@ -19,12 +19,21 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java%20SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyr94&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=jyr&theme=default" alt="GitHub Streak" />
+</p>
 
 ---
 
