@@ -27,12 +27,12 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyr94&show_icons=true&theme=black" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jyr94&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=jyr94&theme=black" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jyr94&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
